@@ -15,7 +15,7 @@ This repository contains 30 professional Python projects, one for each day, rang
 | 7 | Mar 01 | Markdown to HTML Converter | Convert .md files to styled HTML pages with syntax highlighting support. | ✅ |
 | 8 | Mar 02 | Image Batch Processor | Bulk resize, watermark, and convert images using Pillow with CLI arguments. | ✅ |
 | 9 | Mar 03 | Weather Dashboard | Fetch live weather data from an API and display a clean terminal dashboard. | ✅ Completed |
-| 10 | Mar 04 | Regex Pattern Tester | Interactive regex tool with test cases, match highlighting, and a built-in cheat sheet. | ⏳ Pending |
+| 10 | Mar 04 | Regex Pattern Tester | Interactive regex tool with test cases, match highlighting, and a built-in cheat sheet. | ✅ Completed |
 | 11 | Mar 05 | SQLite ORM Mini | Build a lightweight ORM on top of sqlite3 with models, queries, and migrations. | ⏳ Pending |
 | 12 | Mar 06 | Log File Analyzer | Parse and analyze server logs, produce statistics, and detect anomalies automatically. | ⏳ Pending |
 | 13 | Mar 07 | Multi-threaded Downloader | Download multiple files concurrently with live progress bars using threading & requests. | ⏳ Pending |
