@@ -20,7 +20,7 @@ This repository contains 30 professional Python projects, one for each day, rang
 | 12 | Mar 06 | Log File Analyzer | Parse and analyze server logs, produce statistics, and detect anomalies automatically. | ⏳ Pending |
 | 13 | Mar 07 | Multi-threaded Downloader | Download multiple files concurrently with live progress bars using threading & requests. | ⏳ Pending |
 | 14 | Mar 08 | Email Automation Script | Send templated emails via SMTP with attachments and basic scheduling logic. | ⏳ Pending |
-| 15 | Mar 09 | JSON Config Manager | Hierarchical config system with environment variable overrides, validation, and dot-notation access. | ⏳ Pending |
+| 15 | Mar 09 | JSON Config Manager | Hierarchical config system with environment variable overrides, validation, and dot-notation access. | ✅ Completed |
 | 16 | Mar 10 | Terminal Snake Game | Classic Snake game in the terminal using curses with high score tracking. | ⏳ Pending |
 | 17 | Mar 11 | Port Scanner | Multi-threaded TCP port scanner with service detection and formatted output. | ⏳ Pending |
 | 18 | Thu, 12 Mar 2026 | PDF Report Generator | Generate styled, data-driven PDF reports programmatically using ReportLab. | ⏳ Pending |
