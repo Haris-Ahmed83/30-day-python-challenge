@@ -23,7 +23,7 @@ This repository contains 30 professional Python projects, one for each day, rang
 | 15 | Mar 09 | JSON Config Manager | Hierarchical config system with environment variable overrides, validation, and dot-notation access. | ✅ Completed |
 | 16 | Mar 10 | Terminal Snake Game | Classic Snake game in the terminal using curses with high score tracking. | ✅ Completed |
 | 17 | Mar 11 | Port Scanner | Multi-threaded TCP port scanner with service detection and formatted output. | ✅ Completed |
-| 18 | Thu, 12 Mar 2026 | PDF Report Generator | Generate styled, data-driven PDF reports programmatically using ReportLab. | ⏳ Pending |
+| 18 | Thu, 12 Mar 2026 | PDF Report Generator | Generate styled, data-driven PDF reports programmatically using ReportLab. | ✅ Completed |
 | 19 | Fri, 13 Mar 2026 | Chat App with Sockets | Peer-to-peer terminal chat application using Python sockets and threading. | ⏳ Pending |
 | 20 | Sat, 14 Mar 2026 | Data Pipeline (ETL) | Full ETL pipeline — read CSV, clean and transform with pandas, load to SQLite, output summary. | ⏳ Pending |
 | 21 | Sun, 15 Mar 2026 | GitHub CLI Tool | Command-line tool that interacts with the GitHub API to manage repos, issues, and PRs. | ⏳ Pending |
